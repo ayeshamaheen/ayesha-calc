@@ -1,0 +1,27 @@
+{
+  "name": "ayesha-calc",
+  "version": "1.0.0",
+  "description": "'first CLI calculator project from PIAIC course\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ateebamateen21/PIAIC.project-00-calculator.git"
+  },
+  "author": "ateeba mateen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ateebamateen21/PIAIC.project-00-calculator/issues"
+  },
+  "homepage": "https://github.com/ateebamateen21/PIAIC.project-00-calculator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
